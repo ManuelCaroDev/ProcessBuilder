@@ -1,0 +1,16 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 82C6-CE23
+
+ Directorio de C:\Users\Manolo\Desktop\DAM 2§\Programacion de servicios y procesos\Proyectos\ProcessBuilder
+
+16/12/2025  19:44    <DIR>          .
+16/12/2025  19:17    <DIR>          ..
+16/12/2025  19:17               372 .gitignore
+16/12/2025  19:43    <DIR>          .idea
+16/12/2025  19:44                 0 errores.txt
+16/12/2025  19:32    <DIR>          out
+16/12/2025  19:17               433 ProcessBuilder.iml
+16/12/2025  19:44                 0 resultado.txt
+16/12/2025  19:37    <DIR>          src
+               4 archivos            805 bytes
+               5 dirs  130.261.426.176 bytes libres
