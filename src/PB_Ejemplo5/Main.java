@@ -20,7 +20,7 @@ public class Main {
             BufferedReader reader = new BufferedReader(new InputStreamReader(p.getInputStream()));
             String linea;
             while ((linea = reader.readLine()) != null) {
-                System.out.println("linea");
+                System.out.println(linea);
             }
 
             p.waitFor();
