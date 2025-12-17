@@ -23,6 +23,8 @@ public class Main {
                 System.out.println("linea");
             }
 
+            p.waitFor();
+
         } catch (Exception e) {
             e.printStackTrace();
         }
