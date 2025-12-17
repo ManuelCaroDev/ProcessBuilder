@@ -10,8 +10,8 @@ public class Main {
             pb.directory(new File("C:\\Windows"));
             pb.inheritIO();
             pb.start();
-        } catch (IOException e) {
-            throw new RuntimeException(e);
+        } catch (Exception e) {
+            e.printStackTrace();
         }
     }
 }
