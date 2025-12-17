@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
 
         try {
-            ProcessBuilder pb = new ProcessBuilder("cmd", "/c", "backup.bat");
+            ProcessBuilder pb = new ProcessBuilder("cmd", "/c", "ipconfig");
             pb.redirectErrorStream(true);
 
             Process p = pb.start();
